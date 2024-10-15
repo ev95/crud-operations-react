@@ -1,0 +1,19 @@
+.post-form {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.desc input {
+  width: 300px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
